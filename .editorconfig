@@ -1,0 +1,5 @@
+root = true
+
+[*] # especifica que as regras abaixo valem para todos os arquivos no diretório
+indent_style = space # para quando ocorrer uma identação utilizar o caracter de espaço
+indent_size = 2 # porque 2 espaços é a convenção para identação no javascript  
